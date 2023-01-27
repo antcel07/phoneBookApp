@@ -1,0 +1,15 @@
+C:\Users\W10\Desktop\Pratikler\phoneBookApp\bin\Debug\net6.0\phoneBookApp.exe
+C:\Users\W10\Desktop\Pratikler\phoneBookApp\bin\Debug\net6.0\phoneBookApp.deps.json
+C:\Users\W10\Desktop\Pratikler\phoneBookApp\bin\Debug\net6.0\phoneBookApp.runtimeconfig.json
+C:\Users\W10\Desktop\Pratikler\phoneBookApp\bin\Debug\net6.0\phoneBookApp.dll
+C:\Users\W10\Desktop\Pratikler\phoneBookApp\bin\Debug\net6.0\phoneBookApp.pdb
+C:\Users\W10\Desktop\Pratikler\phoneBookApp\obj\Debug\net6.0\phoneBookApp.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\Pratikler\phoneBookApp\obj\Debug\net6.0\phoneBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\Desktop\Pratikler\phoneBookApp\obj\Debug\net6.0\phoneBookApp.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\Pratikler\phoneBookApp\obj\Debug\net6.0\phoneBookApp.AssemblyInfo.cs
+C:\Users\W10\Desktop\Pratikler\phoneBookApp\obj\Debug\net6.0\phoneBookApp.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Pratikler\phoneBookApp\obj\Debug\net6.0\phoneBookApp.dll
+C:\Users\W10\Desktop\Pratikler\phoneBookApp\obj\Debug\net6.0\refint\phoneBookApp.dll
+C:\Users\W10\Desktop\Pratikler\phoneBookApp\obj\Debug\net6.0\phoneBookApp.pdb
+C:\Users\W10\Desktop\Pratikler\phoneBookApp\obj\Debug\net6.0\phoneBookApp.genruntimeconfig.cache
+C:\Users\W10\Desktop\Pratikler\phoneBookApp\obj\Debug\net6.0\ref\phoneBookApp.dll
